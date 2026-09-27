@@ -1,0 +1,7 @@
+=== ptime ===
+command : /bin/echo alpha beta gamma
+pid     : <PID>
+status  : exited 0
+wall    : <TIME> s
+user    : <TIME> s
+sys     : <TIME> s
